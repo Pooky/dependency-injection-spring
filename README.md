@@ -11,3 +11,8 @@ Description
 * Annotation @ComponentScan will scan and register beans in *pooky.projects.beans*
 * To run example use *Main.java*
 
+Interesting reading
+----------------------
+* Difference between annotation @Inject, @Resource and @Autowired
+* https://blogs.sourceallies.com/2011/08/spring-injection-with-resource-and-autowired/ 
+ 
