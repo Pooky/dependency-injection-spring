@@ -15,4 +15,6 @@ Interesting reading
 ----------------------
 * Difference between annotation @Inject, @Resource and @Autowired
 * https://blogs.sourceallies.com/2011/08/spring-injection-with-resource-and-autowired/ 
+
  
+  
