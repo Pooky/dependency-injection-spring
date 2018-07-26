@@ -20,7 +20,7 @@ Interesting reading
 More demos
 -------------------
 
-Java EE World examples can be found here: https://github.com/Pooky/java-enterprise-examples
-Spring Wordl examples can be found here: https://github.com/Pooky/spring-examples
+* Java EE World examples can be found here: https://github.com/Pooky/java-enterprise-examples
+* Spring Wordl examples can be found here: https://github.com/Pooky/spring-examples
  
   
