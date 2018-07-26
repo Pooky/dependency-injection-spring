@@ -16,5 +16,7 @@ Interesting reading
 * Difference between annotation @Inject, @Resource and @Autowired
 * https://blogs.sourceallies.com/2011/08/spring-injection-with-resource-and-autowired/ 
 
+More examples for Spring Boot can be found here: https://github.com/Pooky/java-enterprise-examples
+
  
   
