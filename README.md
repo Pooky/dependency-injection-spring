@@ -13,9 +13,15 @@ Description
 
 Interesting reading
 ----------------------
+
+Spring Depedency Injection and Beans
+- https://docs.spring.io/spring-boot/docs/2.0.x/reference/html/using-boot-spring-beans-and-dependency-injection.html
+
 * Difference between annotation @Inject, @Resource and @Autowired
 * https://blogs.sourceallies.com/2011/08/spring-injection-with-resource-and-autowired/ 
 
+- In Spring Component can have constructor, which include specific Bean and you don´t have to write @Autowired there
+- Otherwise you have to use @Autowired or other import annotation
 
 More demos
 -------------------
